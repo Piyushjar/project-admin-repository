@@ -42,8 +42,7 @@ For example, I will be using the flex-direction: column in the photo below. The 
 
 image (1)
 
-Flex Grow In this property, we can grow our flex boxes in a row to fill up the row completely if necessary. In other words, it defines how much space each flexbox should take up. For example, we can make one out of 3 flex-boxes to grow even more longer. A perfect example would be the image below.
-For reading full article visit our website! Thank you 🙏💕[code](https://www.codewithrandom.com/2021/08/learn-css-flexbox-in-5-minutes-what-is.html)
+Flex Grow In this property, we can grow our flex boxes in a row to fill up the row completely if necessary. In other words, it defines how much space each flexbox should take up. For example, we can make one out of 3 flex-boxes to grow even more longer.
 
 
 
